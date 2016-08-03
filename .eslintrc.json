@@ -1,0 +1,11 @@
+{
+    "extends": "angular",
+    "installedESLint": false,
+    "plugins": [
+        "angular"
+    ],
+    "rules": {
+       "angular/controller-as-vm": [2, "self"],
+       "angular/no-service-method": 0
+    }
+}
