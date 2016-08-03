@@ -42,6 +42,6 @@
     "build": "gulp build",
     "deploy": "gulp deploy",
     "test": "gulp test",
-    "prestart": "npm update" --
+    "prestart": "npm update"
   }
 }
