@@ -1,8 +1,8 @@
 {
-  "name": "my-angular-seed-for-spring",
+  "name": "my-angular-seed",
   "author": "Soonho Kim(sunoj72@naver.com)",
   "version": "0.1.0",
-  "description": "AngularJS v1.5.x seed project for enterprise-grade web application",
+  "description": "AngularJS v1.5.x seed project for enterprise-grade web applications",
   "main": "local-server/app.js",
   "dependencies": {
     "body-parser": "^1.6.5",
@@ -42,6 +42,6 @@
     "build": "gulp build",
     "deploy": "gulp deploy",
     "test": "gulp test",
-    "prestart": "npm update"
+    "prestart": "npm update" --
   }
-} 
+}
